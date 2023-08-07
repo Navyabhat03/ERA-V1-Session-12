@@ -21,7 +21,7 @@ HF link - https://huggingface.co/spaces/Navyabhat/ERA-Session-12
 ```
 
 ### LR Finder
-![image](https://github.com/RaviNaik/ERA-SESSION12/assets/23289802/bfbffdb8-614d-48c0-bff7-3acf71213b76)
+![image](https://github.com/Navyabhat03/ERA-V1-Session-12/assets/60884505/cb4151b0-d8ea-4a12-ae90-4f1958db6198)
 
 ### Accuracy
 ![image](https://github.com/RaviNaik/ERA-SESSION12/assets/23289802/47d4b1da-2573-4022-b6b4-05d1f93d5757)
@@ -37,10 +37,11 @@ HF link - https://huggingface.co/spaces/Navyabhat/ERA-Session-12
 ![image](https://github.com/RaviNaik/ERA-SESSION12/assets/23289802/d30ea859-6bb5-469c-9097-bc198595309f)
 
 ### Misclassified Images
-![image](https://github.com/RaviNaik/ERA-SESSION12/assets/23289802/75494f70-a533-4a70-8c11-ef4c63fce21b)
+![image](https://github.com/Navyabhat03/ERA-V1-Session-12/assets/60884505/0ed3d29b-91e6-4936-b7c6-516c7083e776)
 
 ### GradCAM Images
-![image](https://github.com/RaviNaik/ERA-SESSION12/assets/23289802/4d2a75fa-3902-4839-a32a-bbfec4ef72ba)
+![image](https://github.com/Navyabhat03/ERA-V1-Session-12/assets/60884505/b20a08cd-8835-4c3f-992c-6a351be1ea72)
+
 
 
 
